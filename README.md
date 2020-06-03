@@ -1,7 +1,9 @@
 # LBP-Experiment
 LBP图像特征提取器（批处理）
 
-界面语言：简体中文
+exe文件目录：LBP图像特征提取器\Debug\LBP图像特征提取器.exe
+
+界面语言：简体中文 开发工具：Visual Studio  开发语言：C
 
 功能简介：将多个24位BMP文件放在程序文件夹内，输入参数并运行程序，在LBP_Process_OutPut文件夹内接收提取过LBP特征的图像
 
